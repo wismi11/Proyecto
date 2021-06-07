@@ -1,0 +1,27 @@
+*ERROR* 	v1.7.7.3	2021/04/14 - 10:42:33: Tabla &#039;prestashop_compu.prstshp_diccionario&#039; no existe&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;SELECT SQL_CALC_FOUND_ROWS b.*, a.*
+
+FROM `prstshp_diccionario` a 
+LEFT JOIN `prstshp_diccionario_lang` b
+                ON (b.`id_diccionario` = a.`id_diccionario` AND b.`id_lang` = 1)
+
+ WHERE 1 
+
+ ORDER BY a.id_diccionario ASC  LIMIT 0, 50&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.3	2021/04/14 - 14:41:22: Tabla &#039;prestashop_compu.prstshp_diccionario&#039; no existe&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;SELECT SQL_CALC_FOUND_ROWS b.*, a.*
+
+FROM `prstshp_diccionario` a 
+LEFT JOIN `prstshp_diccionario_lang` b
+                ON (b.`id_diccionario` = a.`id_diccionario` AND b.`id_lang` = 1)
+
+ WHERE 1 
+
+ ORDER BY a.id_diccionario ASC  LIMIT 0, 50&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.3	2021/04/14 - 14:42:58: Tabla &#039;prestashop_compu.prstshp_diccionario&#039; no existe&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;SELECT SQL_CALC_FOUND_ROWS b.*, a.*
+
+FROM `prstshp_diccionario` a 
+LEFT JOIN `prstshp_diccionario_lang` b
+                ON (b.`id_diccionario` = a.`id_diccionario` AND b.`id_lang` = 1)
+
+ WHERE 1 
+
+ ORDER BY a.id_diccionario ASC  LIMIT 0, 50&lt;/pre&gt; at line 769 in file classes/db/Db.php

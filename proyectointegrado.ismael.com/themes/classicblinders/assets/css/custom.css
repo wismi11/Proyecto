@@ -1,0 +1,113 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+.header-nav .dbfreeshipping {
+    color: #ffffff;
+}
+.dbcontactinfo_nav span {
+    color: #ffffff;
+}
+#header .header-nav {
+    background-color: #363a42;
+}
+.dbcontactinfo_top i:hover {
+    color: #ff7d00;
+}
+#header .header-top .displayTop #_desktop_user_info span:hover {
+    color: #ff7d00;
+}
+#header .header-top .displayTop #_desktop_cart i:hover {
+    color: #ff7d00;
+}
+#header .header-top .displayTop #_desktop_cart .cart-products-count {
+    background-color: #001aff;
+}
+.search-widget form button[type="submit"] .search:hover {
+    color: #ff7d00;
+}
+#header a:hover {
+	color: #ff7d00;
+}
+#header .top-menu a[data-depth="0"]:hover {
+    color: #ff7d00;
+}
+.header-top .search-widget form input[type="text"] {
+    min-width: inherit;
+    width: 100%;
+    border-radius: 8px;
+}
+@media (max-width: 767px){
+	#header .header-nav .nav_in_mobile {
+    	background-color: #363a42;
+	}
+	#header .header-nav {
+    background-color: #ffffff;
+	}
+}
+.btn-primary {
+    background-color: #ff7d00;
+}
+.btn-primary.focus, .btn-primary:focus, .btn-primary:hover {
+    background-color: #111e96;
+}
+.product-flags li.product-flag {
+    background: #001aff;
+
+}
+.footer-container li a:hover, .footer-container li .item:hover {
+    color: #ff7d00;
+}
+.content_contactinfo p a:hover {
+    color: #ff7d00;
+}
+.block-social ul li:hover {
+    background-color: #ff7d00;
+}
+.block-social ul li{
+    color: #ffffff;
+}
+#footer .footer-container .container .row .h1, .h2, .h3 {
+    color: #ff7d00;
+}
+#footer {
+    background-color: #363a42;
+}
+.footer-container li a, .footer-container li .item {
+    color: #ffffff;
+}
+.block-contact .block-contact-title, .linklist .blockcms-title a {
+    color: #ff7d00;
+}
+.content_contactinfo p a {
+    color: #ffffff;
+}
+.content_contactinfo p {
+    color: #ffffff;
+}
+.blocksocial_title {
+    color: #ff7d00;
+}
+.page-content.page-cms ul, p {
+    color: #ffffff;
+}
+#wrapper .banner {
+    margin-top: 1.5rem;
+}
+#product .dbfreeshipping {
+    color: #ffffff;
+}
+#header .logo {
+    max-width: 100%;
+    height: 43px;
+    width: 159px;
+}
+.page-content.page-cms ul, p {
+    color: #000000;
+}
+#top_sub_menu{
+	display: none;
+}
+.dbproductcomments_nav span {
+    color: white;
+}
